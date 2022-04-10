@@ -5,9 +5,14 @@ This Python code uses data from https://www.usaspending.gov/download_center/cust
 
 ## Methods
 •	Pandas library
+
 •	Matplotlib library
+
 • Seaborn library
+
 •	Scikit-learn library
+
 •	Scipy  library 
+
 •	K-modes algorithm 
 
